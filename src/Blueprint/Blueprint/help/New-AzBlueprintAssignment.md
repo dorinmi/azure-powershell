@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-AzBlueprintAssignment
 
 ## SYNOPSIS
-Assign a blueprint definition to a subscription or a management group.
+Assign a blueprint definition to a subscription.
 
 ## SYNTAX
 
